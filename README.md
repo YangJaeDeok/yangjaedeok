@@ -1,4 +1,4 @@
-no mad @physics @cs
+**nomad** @physics @cs — *not mad, just curious.*
 <!--
 **YangJaeDeok/yangjaedeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
